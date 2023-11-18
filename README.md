@@ -6,7 +6,9 @@ I'm a passionate full-stack web developer with a keen interest in crafting digit
 ## 👀 I’m interested in...
 Exploring new technologies, building scalable and efficient web applications, and constantly pushing the boundaries of my coding skills.
 
-## 🌱 I’m learning & Always on the lookout for the latest trends in web development, I'm currently diving into [insert specific technology or framework you're learning]. Excited to incorporate this knowledge into my projects!
+## 🌱 I’m learning & Always on the lookout for the latest trends in web development, I'm currently diving into Express, Tailwind, django,and furthermore. 
+
+Excited to incorporate this knowledge into my projects!
 
 ## 💞️ I’m looking to collaborate on:
 Open-source projects that make a positive impact. 
